@@ -4,7 +4,7 @@ public class Decrypt {
 
     public static void main(String[] args) {
 
-        //Fragmented to complation to transfomration to selution Bonus points als je het in Java doet
+        //Fragments to Decode to Decode to solution, Bonus punten als je het in het in java hebt gedaan.
         String input = "";
 
 
